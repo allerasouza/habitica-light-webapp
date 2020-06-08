@@ -1,1 +1,1 @@
-# Light webapp template
+# Habitica light webapp
